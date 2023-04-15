@@ -8,3 +8,5 @@
 `git diff HEAD`
 
 `git status`
+
+new branch fix-B
