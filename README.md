@@ -8,3 +8,5 @@
 `git diff HEAD`
 
 `git status`
+
+The last branch: `git checkout -`
