@@ -10,3 +10,13 @@
 `git status`
 
 new branch fix-B
+
+----
+
+修改提交信息
+
+`git commit --amend`
+
+----
+
+
