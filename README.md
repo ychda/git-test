@@ -19,4 +19,6 @@ new branch fix-B
 
 ----
 
+psvm.j
 
+`$ git rebase -i HEAD~1`
