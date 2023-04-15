@@ -17,8 +17,7 @@ OR
 
 `git checkout new-branch`
 
-
-``
+`git push --set-upstream origin feature-A`
 
 ``
 
