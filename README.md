@@ -22,3 +22,25 @@ new branch fix-B
 psvm.j
 
 `$ git rebase -i HEAD~1`
+
+The last branch: 
+
+`git checkout -`
+
+----
+
+`git checkout -b new-branch`
+
+OR
+
+`git branch new-branch`
+
+`git checkout new-branch`
+
+----
+
+`git push --set-upstream origin feature-A`
+
+`git log --graph`
+
+``
