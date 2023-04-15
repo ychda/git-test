@@ -8,3 +8,18 @@
 `git diff HEAD`
 
 `git status`
+
+`git checkout -b new-branch`
+
+OR
+
+`git branch new-branch`
+
+`git checkout new-branch`
+
+
+``
+
+``
+
+``
