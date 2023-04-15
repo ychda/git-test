@@ -9,7 +9,9 @@
 
 `git status`
 
-The last branch: `git checkout -`
+The last branch: 
+
+`git checkout -`
 ----
 `git checkout -b new-branch`
 
@@ -22,6 +24,6 @@ OR
 
 `git push --set-upstream origin feature-A`
 
-``
+`git log --graph`
 
 ``
